@@ -15,6 +15,20 @@ author: Bill Smith
 
 For the past few years, I have been immersed in the world of Health Data Science, a fascinating field where technology and healthcare converge to transform the way we understand and utilize biomedical data. Over this time, I have learned a lot, but I continue to discover innovative tools that expand my horizons. Today, I want to share one of them with you: CloudBrain-MRS.
 
+### What is CloudBrain-MRS?
+
+CloudBrain-MRS is a cloud-based platform specifically designed for the analysis of magnetic resonance spectroscopy (MRS) data. MRS is a technique that enables the non-invasive analysis of the biochemical composition of living tissues. It is widely used in research on neurological diseases, cancer, and other metabolic disorders.
+
+**Key Features of CloudBrain-MRS**
+
+✅ Global accessibility: No need for local software installation.
+
+⚡ Automation: Reduces manual MRS data processing.
+
+🧠 AI-powered analysis: Provides faster and more accurate biomarker identification.
+
+
+
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
 Here's a table:
