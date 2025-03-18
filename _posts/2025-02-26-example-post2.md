@@ -11,12 +11,9 @@ mathjax: true
 author: Bill Smith
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+## A Step Forward in My Health Data Science Journey
 
-**Here is some bold text**
-
-## Here is a secondary heading
+For the past few years, I have been immersed in the world of Health Data Science, a fascinating field where technology and healthcare converge to transform the way we understand and utilize biomedical data. Over this time, I have learned a lot, but I continue to discover innovative tools that expand my horizons. Today, I want to share one of them with you: CloudBrain-MRS.
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
