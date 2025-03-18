@@ -4,6 +4,7 @@ title: "Exploring CloudBrain-MRS:"
 subtitle: Cloud Intelligence for Magnetic Resonance Spectroscopy Analysis
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+categories: [health data science, biomedical computing, cloud computing]
 tags: [test]
 comments: true
 mathjax: true
