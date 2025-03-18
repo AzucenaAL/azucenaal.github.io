@@ -27,18 +27,11 @@ CloudBrain-MRS is a cloud-based platform specifically designed for the analysis 
 
 🧠 AI-powered analysis: Provides faster and more accurate biomarker identification.
 
-
+"/images/nube_MRS.jpeg"
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
-Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
