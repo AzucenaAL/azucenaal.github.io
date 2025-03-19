@@ -4,7 +4,6 @@ title: "Exploring CloudBrain-MRS:"
 subtitle: Cloud Intelligence for Magnetic Resonance Spectroscopy Analysis
 gh-repo: daattali/beautiful-jekyll
 categories: [health data science, biomedical computing, cloud computing]
-tags: [test]
 comments: true
 mathjax: true
 author: Azucena Álvarez
