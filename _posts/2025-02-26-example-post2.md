@@ -3,12 +3,11 @@ layout: post
 title: "Exploring CloudBrain-MRS:"
 subtitle: Cloud Intelligence for Magnetic Resonance Spectroscopy Analysis
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 categories: [health data science, biomedical computing, cloud computing]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Azucena Álvarez
 ---
 
 ## A Step Forward in My Health Data Science Journey
@@ -19,82 +18,27 @@ For the past few years, I have been immersed in the world of Health Data Science
 
 CloudBrain-MRS is a cloud-based platform specifically designed for the analysis of magnetic resonance spectroscopy (MRS) data. MRS is a technique that enables the non-invasive analysis of the biochemical composition of living tissues. It is widely used in research on neurological diseases, cancer, and other metabolic disorders.
 
-**Key Features of CloudBrain-MRS**
+### **Key Features of CloudBrain-MRS**
 
-✅ Global accessibility: No need for local software installation.
-
-⚡ Automation: Reduces manual MRS data processing.
-
-🧠 AI-powered analysis: Provides faster and more accurate biomarker identification.
+- ✅ **Global accessibility**: No need for local software installation.
+- ⚡ **Automation**: Reduces manual MRS data processing.
+- 🧠 **AI-powered analysis**: Provides faster and more accurate biomarker identification.
+- 📊 **Intuitive visualization**: Facilitates data interpretation with detailed graphics.
 
 ![nube](/images/nube_MRS.jpg)
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+### Why is CloudBrain-MRS Important?
+
+Before discovering this platform, I knew that analyzing MRS data required specialized tools, but I hadn't considered how difficult it could be without the right software. **CloudBrain-MRS** makes these processes more accessible by leveraging cloud computing and artificial intelligence, allowing **researchers, clinicians, and health data professionals** to work efficiently without extensive computational infrastructure.
 
 
+### 💡 **Personal Reflection**
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+This discovery strengthens my motivation to continue exploring the impact of **cloud computing and artificial intelligence in healthcare**. While I am no longer a beginner in Health Data Science, I am still learning and uncovering new tools that can make a significant difference in **biomedical research and patient care**.
 
-How about a yummy crepe?
+If you are exploring the field of digital health, I encourage you to learn more about **CloudBrain-MRS** and other cloud-based solutions. The future of medicine lies in data, and the more we understand these tools, the better we can contribute to improving healthcare.
 
-![](nube_MRS.jpg)
+### References
 
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+- 📄 **Original article on CloudBrain-MRS in *Journal of Magnetic Resonance***: [Link to PubMed article](https://pubmed.ncbi.nlm.nih.gov/38039654/)
+- 🏛️ **Visit platform on [CloudBrain](https://csrc.xmu.edu.cn/CloudBrain.html)**
