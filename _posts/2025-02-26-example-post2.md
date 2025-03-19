@@ -27,7 +27,7 @@ CloudBrain-MRS is a cloud-based platform specifically designed for the analysis 
 
 🧠 AI-powered analysis: Provides faster and more accurate biomarker identification.
 
-"/images/nube_MRS.jpeg"
+![nube](/images/nube_MRS.jpeg)
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
